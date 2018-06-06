@@ -1,6 +1,7 @@
 ---
-layout: post
 title: 'More Advanced'
+by: Omer
+Gist: What to read given you are not afraid of numbers.
 ---
 
 Hiya,
