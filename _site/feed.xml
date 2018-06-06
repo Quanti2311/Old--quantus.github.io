@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-06-06T13:35:19+01:00</updated><id>http://localhost:4000/</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2018/06/06/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-06-06T11:12:21+01:00</published><updated>2018-06-06T11:12:21+01:00</updated><id>http://localhost:4000/jekyll/update/2018/06/06/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/06/06/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Soft Intro</title><link href="http://localhost:4000/2018/06/05/Soft-Intro.html" rel="alternate" type="text/html" title="Soft Intro" /><published>2018-06-05T00:00:00+01:00</published><updated>2018-06-05T00:00:00+01:00</updated><id>http://localhost:4000/2018/06/05/Soft-Intro</id><content type="html" xml:base="http://localhost:4000/2018/06/05/Soft-Intro.html">&lt;p&gt;Here you will find great materials re quantum computing (QC) and other quantum subjects (quantum internet, encryption).&lt;/p&gt;
+
+&lt;p&gt;Please feel free to ping me over email (omer.ben-ami@lloydsbanking.com) and ask questions.&lt;/p&gt;</content><author><name></name></author><summary type="html">Here you will find great materials re quantum computing (QC) and other quantum subjects (quantum internet, encryption).</summary></entry><entry><title type="html">The Quantum Internet</title><link href="http://localhost:4000/2018/06/05/Quantum-Internet.html" rel="alternate" type="text/html" title="The Quantum Internet" /><published>2018-06-05T00:00:00+01:00</published><updated>2018-06-05T00:00:00+01:00</updated><id>http://localhost:4000/2018/06/05/Quantum-Internet</id><content type="html" xml:base="http://localhost:4000/2018/06/05/Quantum-Internet.html">&lt;h4 id=&quot;it-is-impossible-to-measure-a-property-of-a-system-without-changing-it&quot;&gt;&lt;em&gt;“It is impossible to measure a property of a system without changing it.”&lt;/em&gt;&lt;/h4&gt;
+
+&lt;h4 id=&quot;id-quantique-for-example-a-company-founded-in-2001-in-geneva-switzerland-built-a-quantum-link-that-has-been-protecting-the-results-of-swiss-elections-for-more-than-ten-years&quot;&gt;&lt;em&gt;“ID Quantique, for example, a company founded in 2001 in Geneva, Switzerland, built a quantum link that has been protecting the results of Swiss elections for more than ten years.”&lt;/em&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Quantum Internet is expected to be prevalent in a decade, but why it is interesting?&lt;/strong&gt;
+The main premise: &lt;em&gt;“A hacker can make a copy of your email now without you ever knowing; a hack of a quantum system, however, is bound by the laws of physics to leave traces.” (cosmos magazine)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt;
+&lt;em&gt;“Quantum cryptography suddenly became more relevant in 1994, when mathematician Peter Shor showed that quantum computers might one day be able to use quantum indeterminacy to break through existing cryptographic schemes with alarming ease. Cracking such schemes – like the ones that keep your internet banking sessions safe from prying eyes – involves finding the factors of extremely large numbers. Shor showed that a quantum computer would be able to do it much more quickly than a classical one.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why it works?&lt;/strong&gt;
+&lt;em&gt;“Their idea involved a sender (conventionally known as Alice in cryptography) sending a long string of 1s and 0s to a recipient (call him Bob) that is encoded in photons in such a way that if an eavesdropper (Eve, naturally) conducted any measurements on it, Alice and Bob would know (because measuring a quantum particle changes its properties). They would then throw out any affected 1s and 0s, and be left with an ideal cryptographic key – a long random number they both know but no one else does.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/qunatum_internet.jpg&quot; alt=&quot;The Quantum Internet&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Leaders and Leads:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;China:&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;China has launched the first setalite that is aimed at transmiting photons that would carry the necessary infomation for establishing communication (a video call was transmitted to Viena). The Chienese are the leaders in this field (while it seems like the Americans keep their cards close to the chest, with a fog when it comes to this issue.)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The Netherlands:&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;A team at Delft has already started to build the first genuine quantum network, which will link four cities in the Netherlands.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Resources:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;https://www.wired.com/story/quantum-internet-is-13-years-away-wait-whats-quantum-internet/&lt;/li&gt;
+  &lt;li&gt;https://www.nature.com/articles/d41586-018-01835-3&lt;/li&gt;
+  &lt;li&gt;https://www.wikiwand.com/en/Quantum_network&lt;/li&gt;
+  &lt;li&gt;https://cosmosmagazine.com/technology/the-quantum-internet-is-already-being-built&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">“It is impossible to measure a property of a system without changing it.”</summary></entry><entry><title type="html">More Advanced</title><link href="http://localhost:4000/2018/06/05/More-Advanced.html" rel="alternate" type="text/html" title="More Advanced" /><published>2018-06-05T00:00:00+01:00</published><updated>2018-06-05T00:00:00+01:00</updated><id>http://localhost:4000/2018/06/05/More-Advanced</id><content type="html" xml:base="http://localhost:4000/2018/06/05/More-Advanced.html">&lt;p&gt;Hiya,
+Here you can find materials that are a bit more advanced, getting deeper in regards to jargon and quantiness.&lt;/p&gt;
+
+&lt;p&gt;Start with: &lt;em&gt;Why now is the right time to study quantum computing&lt;/em&gt; a great article by an MIT Prof. &lt;a href=&quot;http://localhost:4000/assets/why_now_QC.pdf&quot;&gt;here is possible to download the file in PDF&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This great article summarizes the background to quantum, the advantages and the potential QC entails.
+Focus on what are qubits - this is a fairly good explanation.&lt;/p&gt;</content><author><name></name></author><summary type="html">Hiya, Here you can find materials that are a bit more advanced, getting deeper in regards to jargon and quantiness.</summary></entry></feed>
