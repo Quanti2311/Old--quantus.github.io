@@ -1,0 +1,15 @@
+---
+layout: default
+title: 'Encryption'
+---
+
+#### Quantum Key Distribution (QKD):
+QKD is what essentially enables satelite-based quantum communication. The photons that are sent in a specific polarized state might be interupted because of the atmosphere and thus the transmission wouldn't hold. QKD solves this problem.
+
+The main key: _the process of measuring a quantum system in general disturbs the system._
+
+
+
+Further Reading:
+1. https://www.quintessencelabs.com/
+2. https://www.wikiwand.com/en/Quantum_key_distribution

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: 'More Advanced'
 by: Omer
 Gist: What to read given you are not afraid of numbers.
@@ -16,3 +17,4 @@ This great article summarizes the background to quantum, the advantages and the 
 Focus on what are qubits - this is a fairly good explanation.
 
 [1]:{{site.url}}/assets/why_now_QC.pdf
+
